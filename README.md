@@ -1,4 +1,4 @@
-# 👩‍💻 EMAN IQBAL — Machine Learning & Generative AI Engineer
+# 👩‍💻 EMAN IQBAL  Machine Learning & Generative AI Engineer
 
 Hi there! I'm **Eman**, a passionate and hands-on **Machine Learning Engineer** who loves building intelligent systems that solve real-world problems. From data pipelines to GenAI tools, I enjoy turning ideas into production-ready solutions.
 
@@ -44,7 +44,6 @@ Hi there! I'm **Eman**, a passionate and hands-on **Machine Learning Engineer** 
 - 💼 LinkedIn: https://linkedin.com/in/emaniqbal
 - 🧠 Blogs: Coming soon on ML, GenAI, and AI agents!
   
-> “I’m on a mission to build intelligent systems that make life simpler, smarter, and more secure.”
+“I’m on a mission to build intelligent systems that make life simpler, smarter, and more secure.”
 
 Thanks for visiting! ⭐️
---->
