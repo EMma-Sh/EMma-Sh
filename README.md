@@ -1,10 +1,10 @@
-**👩‍💻 EMAN IQBAL  Machine Learning & Generative AI Engineer **
+**👩‍💻 EMAN IQBAL  Machine Learning & Generative AI Engineer**
 
 Hi there! I'm **Eman**, a passionate and hands-on **Machine Learning Engineer** who loves building intelligent systems that solve real-world problems. From data pipelines to GenAI tools, I enjoy turning ideas into production-ready solutions.
 
 ---
 
-** What I Do **
+**What I Do**
 - 🔍 **Data Analysis & Feature Engineering**
 - 🤖 **Machine Learning Models** — Classification, Regression, Time Series
 - 📈 **AI Trading Agents** — Built using Reinforcement Learning (e.g., DQN, PPO)
@@ -24,7 +24,7 @@ Hi there! I'm **Eman**, a passionate and hands-on **Machine Learning Engineer** 
 - **GenAI Productivity Tool** *(Kiro Hackathon)*  
   Used LLMs to create a smart assistant that automates dev tasks, learns workflows, and boosts efficiency.
 
-** Tech Stack **
+**Tech Stack**
  
 **Languages:**  
 `Python` `SQL` `Markdown` `YAML` `Javascript`
@@ -37,7 +37,7 @@ Hi there! I'm **Eman**, a passionate and hands-on **Machine Learning Engineer** 
 **Tools:**  
 `Git & GitHub` `Jupyter Notebooks` `VS Code` `Google Colab` `Kiro` `Postman` `Claude` `Codex` `Curosr` `Kiro`
 
- **📫 Let's Connect! **
+ **📫 Let's Connect!**
 
 - 📍 Based in: Pakistan (open to global opportunities)
 - 💌 Email: emaniqbal156@gmail.com
