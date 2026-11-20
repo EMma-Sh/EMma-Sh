@@ -16,13 +16,13 @@ Final-year Computer Science student (graduating 2027) based in Pakistan. I build
 
 **Featured projects**
 
-| Project | What it does | Tech | Result |
-|---|---|---|---|
-| [Credit Scoring Prediction Model](https://github.com/EMma-Sh) | Predicts creditworthiness using Random Forest tuned with GridSearchCV | Python, scikit-learn | [add metric] |
-| [Credit-Card-Fraud-Detection](https://github.com/EMma-Sh/Credit-Card-Fraud-Detection) | Detects fraudulent card transactions | Python, Jupyter | [add precision / recall / ROC-AUC] |
-| [Loan-Data-Predictor-Model](https://github.com/EMma-Sh/Loan-Data-Predictor-Model) | Predicts loan outcomes from applicant data | Python | [add metric] |
-| Sales & Trend Analysis | Finds peak sales periods, trends and top-selling products in retail data | pandas, Matplotlib, Seaborn | [add key insight] |
-| [CRYPTO-TRADE-](https://github.com/EMma-Sh/CRYPTO-TRADE-) | Reinforcement learning agent making trading decisions in a simulated market (Recall AI Contest) | Stable-Baselines3, Gym | [add return / metric] |
+| Project | What it does | Tech |
+|---|---|---|
+| [Credit Scoring Prediction Model](https://github.com/EMma-Sh) | Predicts creditworthiness using Random Forest tuned with GridSearchCV | Python, scikit-learn |
+| [Credit-Card-Fraud-Detection](https://github.com/EMma-Sh/Credit-Card-Fraud-Detection) | Detects fraudulent card transactions | Python, Jupyter |
+| [Loan-Data-Predictor-Model](https://github.com/EMma-Sh/Loan-Data-Predictor-Model) | Predicts loan outcomes from applicant data | Python |
+| Sales & Trend Analysis | Finds peak sales periods, trends and top-selling products in retail data | pandas, Matplotlib, Seaborn |
+| [CRYPTO-TRADE-](https://github.com/EMma-Sh/CRYPTO-TRADE-) | Reinforcement learning agent making trading decisions in a simulated market (Recall AI Contest) | Stable-Baselines3, Gym |
 
 Each project has a short README with the problem, data, approach and results.
 
