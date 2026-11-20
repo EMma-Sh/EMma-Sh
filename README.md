@@ -1,49 +1,43 @@
-**👩‍💻 EMAN IQBAL  Machine Learning & Generative AI Engineer**
+**Eman Iqbal**
 
-Hi there! I'm **Eman**, a passionate and hands-on **Machine Learning Engineer** who loves building intelligent systems that solve real-world problems. From data pipelines to GenAI tools, I enjoy turning ideas into production-ready solutions.
+**Entry-Level Data Scientist | Python · SQL · Machine Learning**
+
+Final-year Computer Science student (graduating 2027) based in Pakistan. I build data and machine learning projects, from cleaning and analysing data to training, tuning and deploying models. I am looking for a remote entry-level Data Scientist or Data Analyst role.
 
 ---
 
-**What I Do**
-- 🔍 **Data Analysis & Feature Engineering**
-- 🤖 **Machine Learning Models** — Classification, Regression, Time Series
-- 📈 **AI Trading Agents** — Built using Reinforcement Learning (e.g., DQN, PPO)
-- 🎨 **Generative AI Projects** — LLMs, LangChain, Prompt Engineering, Kiro
-- 🌐 **Deployments** — Streamlit, Flask APIs, and Cloud-ready apps
+**What I work on**
 
-**Recent Projects**
-- **Credit Scoring Prediction Model**  
-  Built a reliable creditworthiness model using Random Forests and GridSearchCV for financial decisions.
+- **Data analysis and feature engineering** with pandas, NumPy, Matplotlib and Seaborn
+- **Supervised learning**: classification, regression and time series with scikit-learn and XGBoost
+- **Reinforcement learning**: trading agents with DQN and PPO
+- **GenAI**: LLM apps with LangChain and the OpenAI API
+- **Deployment**: Streamlit and Flask apps
 
-- **Sales & Trend Analysis**  
-  Analyzed retail datasets to visualize peak sales periods, trends, and top-selling products.
+**Featured projects**
 
-- **AI Crypto Trading Agent** *(Recall AI Contest)*  
-  Designed a reinforcement learning agent that makes real-time trading decisions in a simulated market.
+| Project | What it does | Tech | Result |
+|---|---|---|---|
+| [Credit Scoring Prediction Model](https://github.com/EMma-Sh) | Predicts creditworthiness using Random Forest tuned with GridSearchCV | Python, scikit-learn | [add metric] |
+| [Credit-Card-Fraud-Detection](https://github.com/EMma-Sh/Credit-Card-Fraud-Detection) | Detects fraudulent card transactions | Python, Jupyter | [add precision / recall / ROC-AUC] |
+| [Loan-Data-Predictor-Model](https://github.com/EMma-Sh/Loan-Data-Predictor-Model) | Predicts loan outcomes from applicant data | Python | [add metric] |
+| Sales & Trend Analysis | Finds peak sales periods, trends and top-selling products in retail data | pandas, Matplotlib, Seaborn | [add key insight] |
+| [CRYPTO-TRADE-](https://github.com/EMma-Sh/CRYPTO-TRADE-) | Reinforcement learning agent making trading decisions in a simulated market (Recall AI Contest) | Stable-Baselines3, Gym | [add return / metric] |
 
-- **GenAI Productivity Tool** *(Kiro Hackathon)*  
-  Used LLMs to create a smart assistant that automates dev tasks, learns workflows, and boosts efficiency.
+Each project has a short README with the problem, data, approach and results.
 
-**Tech Stack**
- 
-**Languages:**  
-`Python` `SQL` `Markdown` `YAML` `Javascript`
+**Tech stack**
 
-**Libraries & Frameworks:**  
-`Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn` `XGBoost`  
-`LangChain` `Transformers` `OpenAI API` `Stable-Baselines3` `Gym`  
-`Streamlit` `Flask` `React` `Node` `Next` `3d motion`
+**Languages:** Python, SQL, JavaScript
 
-**Tools:**  
-`Git & GitHub` `Jupyter Notebooks` `VS Code` `Google Colab` `Kiro` `Postman` `Claude` `Codex` `Curosr` `Kiro`
+**Data and ML:** pandas, NumPy, scikit-learn, XGBoost, Matplotlib, Seaborn, Stable-Baselines3, Gym
 
- **📫 Let's Connect!**
+**GenAI:** LangChain, Transformers, OpenAI API
 
-- 📍 Based in: Pakistan (open to global opportunities)
-- 💌 Email: emaniqbal156@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/emaniqbal100
-- 🧠 Blogs: Coming soon on ML, GenAI, and AI agents!
-  
-“I’m on a mission to build intelligent systems that make life simpler, smarter, and more secure.”
+**Tools:** Git and GitHub, Jupyter, Google Colab, Streamlit, Flask, Docker, Postman
 
-Thanks for visiting! ⭐️
+**Connect**
+
+- Email: [emaniqbal156@gmail.com](mailto:emaniqbal156@gmail.com)
+- LinkedIn: [linkedin.com/in/emaniqbal100](https://linkedin.com/in/emaniqbal100)
+- Location: Pakistan (open to remote work and relocation to Europe)
